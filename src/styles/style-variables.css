@@ -1,0 +1,13 @@
+:root {
+   --colorComponentContainer: rgba(255, 255, 255, 0.3);
+
+   --colorComponent: white;
+   --colorTitle: black;
+   --colorContent: rgba(0, 0, 0, 0.8);
+   --buttonWarnLite: white;
+   --buttonWarnDark: red;
+   --roundedBorder: 5px;
+
+   /* Change the following color to change theme of the website */
+   --colorBackground: #7DCE13;
+}
