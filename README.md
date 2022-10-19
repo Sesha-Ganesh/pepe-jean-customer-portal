@@ -1,8 +1,6 @@
-This is a Front-end Coding Challenge based on React, conducted by Geektrust
+Pepe Jean's Cloth Store :
 
-TeeRex Store :
-
--  It is an online shopping cart application which enables shopping of T-shirts of different models and categories.
+-  It is an online shopping cart application which enables shopping of T-shirts,Hoodies,Polos of different models and categories.
 
 Features:
 
@@ -20,6 +18,7 @@ Applied React Concepts:
 
 -  Entire application is based on React Functional Components and Hooks
 -  useReducer , context hooks are used for global-state management.
--  As the contest required avoiding usage of third-party libraries, styling is done using plain CSS only.
+-  React-router-dom is used for routing between pages.
 
-ie,...Avoided libraries are 'Redux' for state-management and 'Tailwind CSS' for styling.
+Note:
+- React useContext and useReducer combined can produce Global state management similar to Redux
